@@ -17,7 +17,7 @@ and coding :computer:
 
 [<img align="left" alt= "C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />] [C]
 
-[<img align="left" alt= "Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />] [Bootstrap]
+[ <img align="left" alt= "Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> ] [Bootstrap]
 
 [<img align="left" alt= "PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />] [PHP]
 
@@ -36,5 +36,5 @@ and coding :computer:
 [PHP]: https://ru.wikipedia.org/wiki/PHP
 [Bootstrap]: https://ru.wikipedia.org/wiki/Bootstrap_(фреймворк)
 [C]: https://ru.wikipedia.org/wiki/Си_(язык_программирования)
-[C++]: https://ru.wikipedia.org/wiki/C++
+[CPP]: https://ru.wikipedia.org/wiki/C++
 [Python]: https://ru.wikipedia.org/wiki/Python
