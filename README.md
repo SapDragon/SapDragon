@@ -1,4 +1,4 @@
-## Hello,I'm [SapDragon]
+## Hello,I'm SapDragon
 
 ### I'm a backend developer!
 
@@ -58,5 +58,12 @@ and coding :computer:
 [C]: https://ru.wikipedia.org/wiki/Си_(язык_программирования)
 [CPP]: https://ru.wikipedia.org/wiki/C++
 [Python]: https://ru.wikipedia.org/wiki/Python
-
 [Site]: https://sapdragon.com/
+
+<br />
+<br />
+<br />
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SapDragon)](https://github.com/anuraghazra/github-readme-stats)
