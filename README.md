@@ -60,3 +60,10 @@ and coding :computer:
 [Python]: https://ru.wikipedia.org/wiki/Python
 [Site]: https://sapdragon.com/
 
+<br />
+<br />
+<br />
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SapDragon)](https://wakatime.com/@SapDragon)
